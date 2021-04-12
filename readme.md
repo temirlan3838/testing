@@ -1,4 +1,4 @@
-# MDT
+# MDT company
 Online shop store webpage.
 ## Documentation to my project
 My web page is about online store. Inside this store user can register, 
@@ -9,3 +9,4 @@ via foreigh keys. Then I have relationships like ***user can leave resume***, **
 ordering if he/she wish. Also user can switch between 2 language : rus and eng.<br/>
 All conditions such as *file uploading*, *email sending*, *localization*, *at least 2 table* - are met.
 ## ER diagram
+![er-diag](https://user-images.githubusercontent.com/68343687/114416997-0b9a5300-9bd3-11eb-9559-57543d27ac42.png)
