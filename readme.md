@@ -1,4 +1,5 @@
-# MDT company online store
+# MDT
+Online shop store webpage.
 ## Documentation to my project
 	My web page is about online store.Inside this store user can register, 
 after registration can login and also logout from webpage.
